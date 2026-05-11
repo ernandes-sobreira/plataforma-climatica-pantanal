@@ -1,0 +1,212 @@
+{
+  "emissionFactors": [
+    {
+      "category": "Transporte",
+      "activity": "Carro a gasolina (km)",
+      "factor": 0.21,
+      "unit": "kgCO2/km",
+      "source": "IPCC 2021"
+    },
+    {
+      "category": "Transporte",
+      "activity": "Ônibus (km)",
+      "factor": 0.089,
+      "unit": "kgCO2/km",
+      "source": "IPCC 2021"
+    },
+    {
+      "category": "Transporte",
+      "activity": "Avião doméstico (km)",
+      "factor": 0.255,
+      "unit": "kgCO2/km",
+      "source": "ICAO 2022"
+    },
+    {
+      "category": "Transporte",
+      "activity": "Motocicleta (km)",
+      "factor": 0.113,
+      "unit": "kgCO2/km",
+      "source": "IPCC 2021"
+    },
+    {
+      "category": "Energia",
+      "activity": "Eletricidade Brasil (kWh)",
+      "factor": 0.0757,
+      "unit": "kgCO2/kWh",
+      "source": "MCTI 2022"
+    },
+    {
+      "category": "Energia",
+      "activity": "Gás natural (m³)",
+      "factor": 2.02,
+      "unit": "kgCO2/m³",
+      "source": "IPCC 2021"
+    },
+    {
+      "category": "Alimentação",
+      "activity": "Carne bovina (kg)",
+      "factor": 27,
+      "unit": "kgCO2/kg",
+      "source": "FAO 2021"
+    },
+    {
+      "category": "Alimentação",
+      "activity": "Frango (kg)",
+      "factor": 6.9,
+      "unit": "kgCO2/kg",
+      "source": "FAO 2021"
+    },
+    {
+      "category": "Alimentação",
+      "activity": "Vegetais (kg)",
+      "factor": 2,
+      "unit": "kgCO2/kg",
+      "source": "FAO 2021"
+    },
+    {
+      "category": "Resíduos",
+      "activity": "Lixo orgânico (kg)",
+      "factor": 0.56,
+      "unit": "kgCO2/kg",
+      "source": "IPCC 2006"
+    },
+    {
+      "category": "Resíduos",
+      "activity": "Reciclagem (kg)",
+      "factor": -0.2,
+      "unit": "kgCO2/kg",
+      "source": "EPA 2021"
+    }
+  ],
+  "glossaryTerms": [
+    {
+      "term": "Albedo",
+      "definition": "Fração da radiação solar incidente que é refletida pela superfície da Terra. Superfícies claras (neve, nuvens) têm alto albedo; superfícies escuras (oceano, floresta) têm baixo albedo.",
+      "category": "Física Climática",
+      "source": "IPCC AR6"
+    },
+    {
+      "term": "Antropogênico",
+      "definition": "Originado ou modificado pela atividade humana. Emissões antropogênicas de gases de efeito estufa são a principal causa das mudanças climáticas atuais.",
+      "category": "Terminologia Geral",
+      "source": "IPCC AR6"
+    },
+    {
+      "term": "Bioma",
+      "definition": "Comunidade biótica de grande extensão territorial, caracterizada por tipo de vegetação dominante e clima específico. O Pantanal é o maior bioma de zona úmida continental do mundo.",
+      "category": "Ecologia",
+      "source": "IBGE"
+    },
+    {
+      "term": "CO₂eq",
+      "definition": "Dióxido de carbono equivalente: medida padrão para comparar emissões de diferentes gases de efeito estufa, baseada em seu potencial de aquecimento global em 100 anos.",
+      "category": "Emissões",
+      "source": "IPCC AR6"
+    },
+    {
+      "term": "El Niño",
+      "definition": "Fenômeno climático de aquecimento anormal das águas superficiais do Oceano Pacífico Equatorial, que afeta padrões de precipitação e temperatura globalmente.",
+      "category": "Fenômenos Climáticos",
+      "source": "NOAA"
+    },
+    {
+      "term": "Gases de Efeito Estufa (GEE)",
+      "definition": "Gases que absorvem e emitem radiação infravermelha, contribuindo para o efeito estufa. Incluem CO₂, CH₄, N₂O, vapor d'água e gases fluorados.",
+      "category": "Emissões",
+      "source": "IPCC AR6"
+    },
+    {
+      "term": "Pantanal",
+      "definition": "Maior planície alagável do mundo, localizada principalmente no Brasil (MT e MS), com extensão para Bolívia e Paraguai. É patrimônio natural e hotspot de biodiversidade.",
+      "category": "Ecologia",
+      "source": "IBGE/MMA"
+    },
+    {
+      "term": "Resiliência Climática",
+      "definition": "Capacidade de um sistema (ecológico, social ou econômico) de absorver perturbações climáticas e reorganizar-se, mantendo essencialmente a mesma estrutura e funcionamento.",
+      "category": "Adaptação",
+      "source": "IPCC AR6"
+    },
+    {
+      "term": "Sequestro de Carbono",
+      "definition": "Processo pelo qual CO₂ atmosférico é capturado e armazenado em sumidouros de carbono como florestas, solos ou oceanos.",
+      "category": "Mitigação",
+      "source": "IPCC AR6"
+    },
+    {
+      "term": "Vulnerabilidade Climática",
+      "definition": "Grau em que um sistema é suscetível a, ou incapaz de lidar com, efeitos adversos das mudanças climáticas, incluindo variabilidade e extremos climáticos.",
+      "category": "Impactos",
+      "source": "IPCC AR6"
+    }
+  ],
+  "quizQuestions": [],
+  "usefulLinks": [
+    {
+      "title": "IPCC - Painel Intergovernamental sobre Mudanças Climáticas",
+      "url": "https://www.ipcc.ch",
+      "description": "Fonte oficial dos relatórios científicos sobre mudanças climáticas",
+      "category": "Organismos Internacionais",
+      "tags": [
+        "IPCC",
+        "ciência climática",
+        "relatórios"
+      ]
+    },
+    {
+      "title": "INPE - Instituto Nacional de Pesquisas Espaciais",
+      "url": "https://www.inpe.br",
+      "description": "Monitoramento ambiental, clima e desmatamento no Brasil",
+      "category": "Instituições Brasileiras",
+      "tags": [
+        "INPE",
+        "monitoramento",
+        "Brasil"
+      ]
+    },
+    {
+      "title": "MapBiomas",
+      "url": "https://mapbiomas.org",
+      "description": "Mapeamento anual da cobertura e uso do solo no Brasil",
+      "category": "Dados e Ferramentas",
+      "tags": [
+        "mapeamento",
+        "cobertura do solo",
+        "desmatamento"
+      ]
+    },
+    {
+      "title": "CEMADEN - Centro Nacional de Monitoramento e Alertas de Desastres Naturais",
+      "url": "https://www.gov.br/cemaden",
+      "description": "Alertas e monitoramento de riscos climáticos e desastres naturais",
+      "category": "Instituições Brasileiras",
+      "tags": [
+        "alertas",
+        "desastres",
+        "riscos"
+      ]
+    },
+    {
+      "title": "Portal do Clima - MMA",
+      "url": "https://www.gov.br/mma/pt-br/assuntos/clima",
+      "description": "Políticas e ações climáticas do Ministério do Meio Ambiente",
+      "category": "Políticas Públicas",
+      "tags": [
+        "política climática",
+        "governo",
+        "PNMC"
+      ]
+    },
+    {
+      "title": "Global Carbon Project",
+      "url": "https://www.globalcarbonproject.org",
+      "description": "Dados globais sobre emissões de carbono e balanço de carbono",
+      "category": "Organismos Internacionais",
+      "tags": [
+        "carbono",
+        "emissões",
+        "dados globais"
+      ]
+    }
+  ]
+}
